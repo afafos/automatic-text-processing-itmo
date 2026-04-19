@@ -218,3 +218,16 @@ __marimo__/
 .streamlit/secrets.toml
 data/
 data-task-3.csv
+
+task-7-jaicp/
+model.bin 
+0.zip
+Soc_Net_Task_2_test_9.csv
+task-9-predictions.txt
+ner_rubert_task10/
+task-10-predictions.txt
+task-11-predictions.txt
+task-11-data/
+nerus_lenta.conllu.gz
+Soc_Net_Task_3_File_0.zip
+Soc_Net_Task_3_File_0.json
